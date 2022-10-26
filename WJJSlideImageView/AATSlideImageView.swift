@@ -2,8 +2,8 @@
 //  AATSlideImageView.swift
 //  AAT
 //
-//  Created by yixue on 17/1/12.
-//  Copyright © 2017年 YiXue. All rights reserved.
+//  Created by wenjingjie on 17/1/12.
+// 
 //
 
 import UIKit
